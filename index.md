@@ -3,6 +3,9 @@
 *Italicized Text*
 **Bolded Text is with two asterisks**
 Linked [Repository](https://github.com/kevku/cse15l-lab-reports)
+## Difference of Two links
+[index](index.html)
+[index](https://github.com/kevku/index.html)
 > Blockquote
 * Bulletted List
 * One
