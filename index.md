@@ -1,6 +1,6 @@
 # All *Lab-Reports*
 ---
-* [Lab-Report-1-Week-2](lab1.html)
+* [Lab-Report-1-Week-2](https://kevku.github.io/cse15l-lab-reports/lab1.html)
 * [Lab-Report-2-Week-3]()
 ## Other Projects that I'm working on  
 These projects are made in AndroidStudio  
