@@ -12,6 +12,7 @@ Currently, the programs are written with Kotlin
     print(str)
   }
 ```
-![Android](https://techcrunch.com/wp-content/uploads/2020/10/image9.png)
-1. [SimpleToDoList](https://github.com/kevku/SimpleToDo)
-2. [Flixster](https://github.com/kevku/Unit-2-Project---Flixster---Part-2)
+1. [SimpleToDoList](https://github.com/kevku/SimpleToDo)  
+   ![ToDo](https://github.com/kevku/SimpleToDo/blob/master/walkthrough.gif) 
+2. [Flixster](https://github.com/kevku/Unit-2-Project---Flixster---Part-2)  
+   ![Flix](https://github.com/kevku/Unit-2-Project---Flixster---Part-2/blob/master/walkthrough.gif)
