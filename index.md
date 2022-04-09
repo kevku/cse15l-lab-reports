@@ -15,3 +15,4 @@ Linked [Repository](https://github.com/kevku/cse15l-lab-reports)
 2. List
  ---
 Hello World!
+![Image](https://cdn.abcotvs.com/dip/images/24996_kgo-windows-bliss-040714-1280.jpg?w=1280&r=16%3A9)
