@@ -5,7 +5,8 @@
 Linked [Repository](https://github.com/kevku/cse15l-lab-reports)
 ## Difference of Two links
 [index](index.html)  
-[index](https://kevku.github.io/cse15l-lab-reports/index.html)
+[index](https://kevku.github.io/cse15l-lab-reports/index.html)  
+[Link to Test File](Test.html)
 > Blockquote
 * Bulletted List
 * One
