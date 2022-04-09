@@ -13,6 +13,6 @@ Currently, the programs are written with Kotlin
   }
 ```
 1. [SimpleToDoList](https://github.com/kevku/SimpleToDo)  
-   ![ToDo](https://github.com/kevku/SimpleToDo/blob/master/walkthrough.gif) 
+   <img src='https://i.imgur.com/Ffpobig.gif' title='SimpleTodo Walkthrough' width='200' alt='SimpleTodo Walkthrough' />
 2. [Flixster](https://github.com/kevku/Unit-2-Project---Flixster---Part-2)  
    ![Flix](https://courses.codepath.com/course_images/android_university/movie_db_youtube.gif)
