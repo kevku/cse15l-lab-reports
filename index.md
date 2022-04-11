@@ -23,7 +23,7 @@
 ---
 ## Let's Try Running Some Basic Commands
 1) One basic command is `ls`  
-   <img src='Tutorial/ls.PNG' title='ls' width='' alt='ls' />
+   <img src='Tutorial/ls.png' title='ls' width='' alt='ls' />
    This command will list visible directories and files
    
 2) `ls -a` will show hidden files in the directory (usually begins with ".")  
