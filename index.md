@@ -1,18 +1,9 @@
-# All *Lab-Reports*
+# Basics of Connecting to UCSD Remote Computers
 ---
-* [Lab-Report-1-Week-2](https://kevku.github.io/cse15l-lab-reports/lab1.html)
-* [Lab-Report-2-Week-3]()
-## Other Projects that I'm working on  
-These projects are made in AndroidStudio  
-Currently, the programs are written with Kotlin
-```
-# Example of Kotlin
-  fun main(args: Array<String>){
-    var str = "Hello World"
-    print(str)
-  }
-```
-1. [SimpleToDoList](https://github.com/kevku/SimpleToDo)  
-   <img src='https://i.imgur.com/Ffpobig.gif' title='SimpleTodo Walkthrough' width='200' alt='SimpleTodo Walkthrough' />
-2. [Flixster](https://github.com/kevku/Unit-2-Project---Flixster---Part-2)  
-   ![Flix](https://courses.codepath.com/course_images/android_university/movie_db_youtube.gif)
+## How to Run *Remote* UCSD Desktops
+1) Download Visual Studio Code  
+   [Link for Visual Studio Code](https://code.visualstudio.com/)  
+   <img src='VS_Code.png' title='VS_Code Download' width='' alt='VS_Code Download' /> 
+
+2) Running Commands Through Terminal
+
