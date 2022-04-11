@@ -61,9 +61,9 @@ Everytime when we log-in or do file transfer we always have to type in our passw
 We can authorize our local computer so we don't need to enter our password all the time.
 ---
 ### How to Authorize your Local Computer to the Remote Computer  
-1) On your local terminal enter `ssh-keygen`
- <img src='Tutorial/ssh-keygen.PNG' title='ssh-keygen' width='' alt='ssh-keygen' />  
- Click enter once it says "Enter file in which to save the key (C:\Users\username/.ssh/id_rsa):"  
+1) On your local terminal enter `ssh-keygen`  
+ <img src='Tutorial/ssh-keygen.PNG' title='ssh-keygen' width='' alt='ssh-keygen' />
+ Click enter once it says "Enter file in which to save the key (C:\Users\username/.ssh/id_rsa):"
  
 2) DON'T ENTER ANYTHING FOR PASSPHRASE and keep on pressing enter until it generates a key
    <img src='Tutorial/passphrase.PNG' title='passphrase' width='' alt='passphrase' />  
