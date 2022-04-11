@@ -80,8 +80,8 @@ We can authorize our local computer so we don't need to enter our password all t
    
 ---
 ## A Few Tips on optimizing workflow  
-
-1) Use the *Up-Arrow* key to go back to previous commands
-2) Use the *TAB* key to auto-fill file names when changing directories or compiling files
-3) Organize both local computer and remote computer so you know where everything is
-4) Copy and paste File paths when pointing to a specific File or Directory
+---
+1. Use the *Up-Arrow* key to go back to previous commands
+2. Use the *TAB* key to auto-fill file names when changing directories or compiling files
+3. Organize both local computer and remote computer so you know where everything is
+4. Copy and paste File paths when pointing to a specific File or Directory
