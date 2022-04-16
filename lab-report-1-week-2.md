@@ -1,5 +1,5 @@
 # Basics of Connecting to UCSD Remote Computers
----
+
 ## How To Run *Remote* UCSD Desktops
 ### Installing VScode
 1) Download Visual Studio Code  
