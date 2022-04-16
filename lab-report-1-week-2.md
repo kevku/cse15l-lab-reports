@@ -91,5 +91,5 @@ We can authorize our local computer so we don't need to enter our password all t
 <img src='Tutorial/Pressing Tab.gif' title='Pressing Tab' width='' alt='Pressing Tab' />  
 3. Use semicolon to run multiple commands in one line  
 <img src='Tutorial/Concat.gif' title='Concat' width='' alt='Concat' />
-4. Organize both local computer and remote computer so you know where everything is
+
 
