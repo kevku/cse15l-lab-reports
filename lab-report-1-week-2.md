@@ -86,6 +86,10 @@ We can authorize our local computer so we don't need to enter our password all t
 ## Optimize Remote Running
 ---
 1. Use the *Up-Arrow* key to go back to previous commands
+<img src='Tutorial/UpArrow.gif' title='UpArrow' width='' alt='UpArrow' />  
 2. Use the *TAB* key to auto-fill file names when changing directories or compiling files
-3. Organize both local computer and remote computer so you know where everything is
-4. Copy and paste File paths when pointing to a specific File or Directory
+<img src='Tutorial/Pressing Tab.gif' title='Pressing Tab' width='' alt='Pressing Tab' />  
+3. Use semicolon to run multiple commands in one line  
+<img src='Tutorial/Concat.gif' title='Concat' width='' alt='Concat' />
+4. Organize both local computer and remote computer so you know where everything is
+
