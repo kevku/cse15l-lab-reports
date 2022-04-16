@@ -1,6 +1,7 @@
 # Basics of Connecting to UCSD Remote Computers
 ---
 ## How To Run *Remote* UCSD Desktops
+### Installing VScode
 1) Download Visual Studio Code  
    [Link for Visual Studio Code](https://code.visualstudio.com/)  
    <img src='Tutorial/VS_Code.PNG' title='VS_Code Download' width='' alt='VS_Code Download' />  
@@ -10,7 +11,9 @@
    <img src='Tutorial/Opening_UpT.jpg' title='Open_T' width='' alt='Open_UpT' />  
    (Drag Up the Terminal to Make it Bigger)  
    <img src='Tutorial/Terminal.PNG' title='Terminal' width='' alt='Terminal' />  
-  
+   
+### Remotely Connecting  
+
 3) In the Terminal, Log in to your remote Desktop with:  
    `ssh cs15lsp22@ieng.ucsd.edu`  
    Between "22" and the "@" sign add your 3 letters (For me it's "aio")  
@@ -21,7 +24,7 @@
    <img src='Tutorial/Loading.PNG' title='Loading' width='' alt='Loading' />
     
 ---
-## Let's Try Running Some Basic Commands
+## Trying Some Commands
 1) One basic command is `ls`  
    <img src='Tutorial/ls.png' title='ls' width='' alt='ls' />
    This command will list visible directories and files
@@ -39,7 +42,8 @@
 5) *CTRL + D* in the terminal will log you off from the remote computer  
    
 ---
-## How To Transfer A File From Your Computer To The Remote Server
+## Moving Files with 'scp'  
+
 1) Once logged out, find or make a file you would like to transfer to the remote computer  
    <img src='Tutorial/FileIWantTransferred.PNG' title='FileIWantTransferred' width='' alt='FileIWantTransferred' />
    
@@ -79,7 +83,7 @@ We can authorize our local computer so we don't need to enter our password all t
    <img src='Tutorial/noPW.PNG' title='noPW' width='' alt='noPW' />
    
 ---
-## A Few Tips on optimizing workflow  
+## Optimize Remote Running
 ---
 1. Use the *Up-Arrow* key to go back to previous commands
 2. Use the *TAB* key to auto-fill file names when changing directories or compiling files
