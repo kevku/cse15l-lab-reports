@@ -90,7 +90,7 @@ We can authorize our local computer so we don't need to enter our password all t
 2. Use the *TAB* key to auto-fill file names when changing directories or compiling files
 <img src='Tutorial/Pressing Tab.gif' title='Pressing Tab' width='' alt='Pressing Tab' />  
 3. Use semicolon to run multiple commands in one line  
-   I did `cd Desktop; cp hello.sh Temp;`
+   I did ```cd Desktop; cp hello.sh Temp;```
 <img src='Tutorial/Concat.gif' title='Concat' width='' alt='Concat' />
 
 
