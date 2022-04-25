@@ -4,7 +4,7 @@
    The code infinitely runs to look for the next symbol that it can locate.
    Since the next line is empty, it infinitely runs forever and we need a break 
    <img src='Fixing Bugs/Bug 1.PNG' title='Bug 1.PNG' width='' alt='Bug 1.PNG' />  
-   <img src='Fixing Bugs/FixedBug - 1.PNG' title='FixedBug - 1.PNG' width='' alt='FixedBug - 1.PNG' />  
+   <img src='Fixing Bugs/FixedBug 1.PNG' title='FixedBug - 1.PNG' width='' alt='FixedBug - 1.PNG' />  
    <img src='Fixing Bugs/Result 1.PNG' title='Result 1.PNG' width='' alt='Result 1.PNG' />  
    
 2) Having no closing parenthesis after the link  
