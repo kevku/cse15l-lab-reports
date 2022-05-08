@@ -46,4 +46,5 @@ This is to copy all the files in a directory into a new folder on the ieng6 serv
  <img src='3 Group Options/One line for Shell.PNG' title='One line for Shell.PNG' width='' alt='One line for Shell.PNG' />  
 2) Entered the commands to compile and run the java file in ieng6  
 
+ Entered `javac MarkdownParse.java; java MarkdownParse test-file.md` to compile and run the java file with the `test-file.md`  
  <img src='3 Group Options/One line for Bash.PNG' title='One line for Bash.PNG' width='' alt='One line for Bash.PNG' />  
