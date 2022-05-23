@@ -38,3 +38,10 @@ In this case it was `https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/s
 *Reviewed Markdown Parse*  
 <img src='Making Tests/theirSnippet3.PNG' title='theirSnippet3.PNG' width='' alt='theirSnippet3.PNG' />  
 
+### Tests within Each MarkdownParse
+*My Markdown Parse Test*  
+<img src='Making Tests/ownTest.PNG' title='ownTest.PNG' width='' alt='ownTest.PNG' />
+
+  
+*Reviewed Markdown Parse Test*
+<img src='Making Tests/theirTest.PNG' title='theirTest.PNG' width='' alt='theirTest.PNG' />
