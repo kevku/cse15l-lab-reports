@@ -16,7 +16,7 @@ In this case they were, `google.com`, `google.com`, and `ucsd.edu`.
 
 ### 2) Snippet 1 of My Markdown Parse and Reviewed Markdown Parse 
 *Determining the Test Output*
-<img src='Making Tests/commonSnippet1.PNG' title='commonSnippet1.PNG' width='' alt='commonSnippet1.PNG' />  
+<img src='Making Tests/commonSnippet2.PNG' title='commonSnippet2.PNG' width='' alt='commonSnippet2.PNG' />  
 I determined the tests to be the links that are shown in blue at the right side and links within the parenthesis.  
 In this case they were, `a.com`, `a.com(())`, and `example.com`.  
   
@@ -28,7 +28,7 @@ In this case they were, `a.com`, `a.com(())`, and `example.com`.
 
 ### 3) Snippet 1 of My Markdown Parse and Reviewed Markdown Parse 
 *Determining the Test Output*
-<img src='Making Tests/commonSnippet1.PNG' title='commonSnippet1.PNG' width='' alt='commonSnippet1.PNG' />  
+<img src='Making Tests/commonSnippet3.PNG' title='commonSnippet3.PNG' width='' alt='commonSnippet3.PNG' />  
 I determined the tests to be the links that are shown in blue at the right side and links within the parenthesis.  
 In this case it was `https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule`.  
   
