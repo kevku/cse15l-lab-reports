@@ -1,5 +1,8 @@
 # Lab Report 4
 
+### [Link to Our markdown-parse Repository](https://github.com/mdsflyboy/markdown-parser) 
+### [Link to Reviewed markdown-parse Repository](https://github.com/Sking56/markdown-parser)  
+
 ## Making Multiple Tests on My Markdown Parse and Reviewed Markdown Parse  
 
 ### 1) Snippet 1 of My Markdown Parse and Reviewed Markdown Parse  
