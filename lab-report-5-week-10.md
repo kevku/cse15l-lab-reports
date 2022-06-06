@@ -12,4 +12,6 @@ According to Common Mark, this should be the correct output
 So, in this case, both implementations got the result incorrect. Our results showed `[]` while the provided implementation gave `[url]` rather 
 than `Foo*bar]`.  
 In order to fix our implementation, we need to check if there are closing `]` after the url so it includes it in the link.  
-<img src='Comparing Code/codeToBeChanged.PNG' title='codeToBeChanged.PNG' width='' alt='codeToBeChanged.PNG' /> 
+<img src='Comparing Code/codeToBeChanged.PNG' title='codeToBeChanged.PNG' width='' alt='codeToBeChanged.PNG' />  
+Moreover, we need to have the code recognize that there are other formats that can be considered as a link and we would have to add a new method or implementation
+to check other variations of links.  
