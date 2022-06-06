@@ -15,3 +15,5 @@ In order to fix our implementation, we need to check if there are closing `]` af
 <img src='Comparing Code/codeToBeChanged.PNG' title='codeToBeChanged.PNG' width='' alt='codeToBeChanged.PNG' />  
 Moreover, we need to have the code recognize that there are other formats that can be considered as a link and we would have to add a new method or implementation
 to check other variations of links.  
+<img src='Comparing Code/GivenImplementation.PNG' title='GivenImplementation.PNG' width='' alt='GivenImplementation.PNG' />  
+For the given implementation, it also needs to check the other forms link and checking for brackets after the closing bracket.  
